@@ -1,0 +1,12 @@
+C:\Users\Maxence\Desktop\WorkSpaceASPNET\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\Maxence\Desktop\WorkSpaceASPNET\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Maxence\Desktop\WorkSpaceASPNET\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Maxence\Desktop\WorkSpaceASPNET\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\Maxence\Desktop\WorkSpaceASPNET\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\Maxence\Desktop\WorkSpaceASPNET\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\maxou\source\repos\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\maxou\source\repos\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\maxou\source\repos\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\maxou\source\repos\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\maxou\source\repos\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\maxou\source\repos\TP1\TP1\obj\Debug\TP1.pdb
